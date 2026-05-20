@@ -5,4 +5,5 @@ export * from './sfx/cartoon-stretch';
 export * from './sfx/slashing';
 export * from './sfx/flipping';
 export * from './sfx/groovy-effects';
+export * from './sfx/groovy-v2-effects';
 export * from './components/GeneratedAudio';

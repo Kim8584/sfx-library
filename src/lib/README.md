@@ -32,11 +32,17 @@ Wraps the audio generation process.
 ### Flipping
 - `generateFlippingAudioBuffer(sampleRate, duration)`: A tactile, premium-feel rotation sound.
 
-### Groovy Effects
+### Groovy Effects (v1)
 - `generateBoingSFXBuffer(sampleRate, duration)`: A comic, springy squash-and-stretch boing.
 - `generateWhistlePopBuffer(sampleRate, duration)`: A playful whistle slide-up ending in a bubble pop.
 - `generateZippingBuffer(sampleRate, duration)`: A sharp, high-velocity friction "zip".
 - `generateLaserBlipBuffer(sampleRate, duration)`: A bright, retro-arcade laser blip.
+
+### Groovy Effects (v2)
+- `generateUFOHoverBuffer(sampleRate, duration)`: An electronic, rubbery hover with LFO vibrato.
+- `generateSpringJumpBuffer(sampleRate, duration)`: A retro arcade spring bounce.
+- `generateDropOffBuffer(sampleRate, duration)`: A comic downward "falling whistle" slide.
+- `generateLaserBubbleBuffer(sampleRate, duration)`: Microscopic laser snap/pop.
 ```
 ---
 # Configuration
