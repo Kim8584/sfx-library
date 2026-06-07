@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "My Remotion video",
   "repository": {},
+  "main": "src/lib/index.ts",
+  "types": "src/lib/index.ts",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
