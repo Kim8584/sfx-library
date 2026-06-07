@@ -14,14 +14,6 @@ export const RemotionRoot: React.FC = () => {
         width={1280}
         height={720}
       />
-      <Composition
-        id="MishelBounce"
-        component={ExampleComposition}
-        durationInFrames={210}
-        fps={30}
-        width={1280}
-        height={720}
-      />
     </>
   );
 };

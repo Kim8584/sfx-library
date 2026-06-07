@@ -11,7 +11,36 @@
 
 Welcome to your Remotion project!
 
-## Commands
+## Compositions
+
+This project includes the following Remotion compositions:
+
+*   **MyComp:** A foundational composition demonstrating basic audio-visual synchronization using `MyComposition`.
+
+## Available Sound Effects
+
+### Cartoonish & Playful
+*   `generateWhistlePopBuffer`: A playful whistle slide-up ending in a bubble pop.
+*   `generateBoingSFXBuffer`: A comic, springy squash-and-stretch boing.
+*   `generateDropOffBuffer`: A comic downward "falling whistle" slide.
+*   `generateSpringJumpBuffer`: A retro arcade spring bounce.
+*   `generateCartoonStretchBuffer`: A rubbery, wobbling stretch effect.
+
+### Groovy & Electronic
+*   `generateUFOHoverBuffer`: An electronic, rubbery hover with LFO vibrato.
+*   `generateDynamicBounceBuffer`: Procedural sequence generation for text/motion.
+*   `generateDynamicPopperBuffer`: Cascading sequence of percussive pops.
+
+### Sci-Fi & Arcade
+*   `generateLaserBlipBuffer`: A bright, retro-arcade laser blip.
+*   `generateLaserBubbleBuffer`: Microscopic laser snap/pop.
+*   `generateZippingBuffer`: A sharp, high-velocity friction "zip".
+
+### Tactile, Impact, & Interaction
+*   `createPopSFX`: A quick frequency-sliding snap.
+*   `createGlideSFX`: A smooth pitch-shifted transition.
+*   `generateSlashingAudioBuffer`: A sharp, filtered-noise whoosh for high-velocity cuts.
+*   `generateFlippingAudioBuffer`: A tactile, premium-feel rotation sound.
 
 **Install Dependencies**
 
