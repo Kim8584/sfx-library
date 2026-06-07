@@ -1,12 +1,10 @@
 # Remotion video
 
 <p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
+  <video width="640" height="360" controls>
+    <source src="https://github.com/Kim8584/sfx-library/raw/main/public/video/myComp.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 Welcome to your Remotion project!
