@@ -17,6 +17,15 @@ This project includes the following Remotion compositions:
 
 *   **MyComp:** A foundational composition demonstrating basic audio-visual synchronization using `MyComposition`.
 
+## Example Composition
+
+Below is a preview of the `MyComp` composition:
+
+<video width="640" height="360" controls>
+  <source src="public/video/myComp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Available Sound Effects
 
 ### Cartoonish & Playful
